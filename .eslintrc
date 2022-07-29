@@ -1,0 +1,6 @@
+{
+  "extends": "@sudongyuer",
+  "rules": {
+    "no-console": "off"
+  }
+}
